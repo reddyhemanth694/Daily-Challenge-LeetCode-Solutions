@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def sumAndMultiply(self, n: int) -> int:
+class Solution(object):
+    def sumAndMultiply(self, n):
         t = str(n).replace("0", "")
         if not t:
             return 0
@@ -12,8 +12,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def sumAndMultiply(self, n: int) -> int:
+class Solution(object):
+    def sumAndMultiply(self, n):
         digits = []
         while n:
             digits.append(n % 10)
@@ -26,8 +26,8 @@ class Solution:
         return x * total
 """
 
-class Solution:
-    def sumAndMultiply(self, n: int) -> int:
+class Solution(object):
+    def sumAndMultiply(self, n):
         x = total = 0
         p = 1
         while n:
