@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1730-shortest-path-to-get-food](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
@@ -295,6 +296,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1860-incremental-memory-leak](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1860-incremental-memory-leak) |
