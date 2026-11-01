@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def minMoves(self, nums: List[int]) -> int:
+class Solution(object):
+    def minMoves(self, nums):
         moves = 0
         while True:
             mx = nums.index(max(nums))
@@ -17,8 +17,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def minMoves(self, nums: List[int]) -> int:
+class Solution(object):
+    def minMoves(self, nums):
         nums.sort()
         moves = 0
         for x in nums:
@@ -26,8 +26,8 @@ class Solution:
         return moves
 """
 
-class Solution:
-    def minMoves(self, nums: List[int]) -> int:
+class Solution(object):
+    def minMoves(self, nums):
         mn = min(nums)
         moves = 0
         for x in nums:
