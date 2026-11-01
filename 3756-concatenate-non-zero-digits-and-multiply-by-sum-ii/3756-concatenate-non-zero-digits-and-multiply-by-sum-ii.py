@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def sumAndMultiply(self, s: str, queries: List[List[int]]) -> List[int]:
+class Solution(object):
+    def sumAndMultiply(self, s, queries):
         MOD = 10**9 + 7
         ans = []
         for l, r in queries:
@@ -19,8 +19,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def sumAndMultiply(self, s: str, queries: List[List[int]]) -> List[int]:
+class Solution(object):
+    def sumAndMultiply(self, s, queries):
         MOD = 10**9 + 7
         m = len(s)
         pre, cnt, total = [0] * (m + 1), [0] * (m + 1), [0] * (m + 1)
@@ -37,8 +37,8 @@ class Solution:
         return ans
 """
 
-class Solution:
-    def sumAndMultiply(self, s: str, queries: List[List[int]]) -> List[int]:
+class Solution(object):
+    def sumAndMultiply(self, s, queries):
         MOD = 10**9 + 7
         m = len(s)
         pre, cnt, total, pw = [0] * (m + 1), [0] * (m + 1), [0] * (m + 1), [1] * (m + 1)
