@@ -78,6 +78,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1288-remove-covered-intervals](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1730-shortest-path-to-get-food](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1792-maximum-average-pass-ratio) |
@@ -265,6 +266,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
