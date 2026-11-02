@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def minMoves2(self, nums: List[int]) -> int:
+class Solution(object):
+    def minMoves2(self, nums):
         best = float('inf')
         for x in nums:
             cost = 0
@@ -15,8 +15,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def minMoves2(self, nums: List[int]) -> int:
+class Solution(object):
+    def minMoves2(self, nums):
         nums.sort()
         median = nums[len(nums) // 2]
         return sum(abs(a - median) for a in nums)
@@ -24,8 +24,8 @@ class Solution:
 
 import random
 
-class Solution:
-    def minMoves2(self, nums: List[int]) -> int:
+class Solution(object):
+    def minMoves2(self, nums):
         arr, k = nums, len(nums) // 2
         while True:
             pivot = random.choice(arr)
