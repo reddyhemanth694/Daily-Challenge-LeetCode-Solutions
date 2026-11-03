@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def minOperations(self, nums: List[int], x: int, k: int) -> int:
+class Solution(object):
+    def minOperations(self, nums, x, k):
         n = len(nums)
 
         def window_cost(i):
@@ -23,8 +23,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def minOperations(self, nums: List[int], x: int, k: int) -> int:
+class Solution(object):
+    def minOperations(self, nums, x, k):
         n = len(nums)
         cost = []
         for i in range(n - x + 1):
@@ -43,8 +43,8 @@ class Solution:
 
 from heapq import heappush, heappop
 
-class Solution:
-    def minOperations(self, nums: List[int], x: int, k: int) -> int:
+class Solution(object):
+    def minOperations(self, nums, x, k):
         n = len(nums)
         low, high, delayed = [], [], {}
         size, total = [0, 0], [0, 0]
