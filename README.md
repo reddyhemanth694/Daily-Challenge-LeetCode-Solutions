@@ -25,6 +25,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -265,6 +267,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-two-best-non-overlapping-events](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -322,6 +325,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2409-count-days-spent-together](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -353,6 +357,7 @@
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
@@ -384,6 +389,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
