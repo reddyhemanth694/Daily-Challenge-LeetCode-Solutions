@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.cn/problems/minimum-operations-to-make-elements-within-k-subarrays-equal">3717. undefined</a></h2><h3>undefined</h3><hr>undefined
