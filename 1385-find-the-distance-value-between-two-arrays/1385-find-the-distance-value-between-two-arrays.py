@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def findTheDistanceValue(self, arr1: List[int], arr2: List[int], d: int) -> int:
+class Solution(object):
+    def findTheDistanceValue(self, arr1, arr2, d):
         ans = 0
         for a in arr1:
             if all(abs(a - b) > d for b in arr2):
@@ -15,8 +15,8 @@ Better Approach
 
 from bisect import bisect_left
 
-class Solution:
-    def findTheDistanceValue(self, arr1: List[int], arr2: List[int], d: int) -> int:
+class Solution(object):
+    def findTheDistanceValue(self, arr1, arr2, d):
         arr2.sort()
         ans = 0
         for a in arr1:
@@ -26,8 +26,8 @@ class Solution:
         return ans
 """
 
-class Solution:
-    def findTheDistanceValue(self, arr1: List[int], arr2: List[int], d: int) -> int:
+class Solution(object):
+    def findTheDistanceValue(self, arr1, arr2, d):
         pre = [0] * 2202
         for v in arr2:
             pre[v + 1101] += 1
