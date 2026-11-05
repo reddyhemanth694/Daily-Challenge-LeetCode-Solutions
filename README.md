@@ -82,6 +82,7 @@
 | [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1486-find-the-distance-value-between-two-arrays/) | undefined |
 | [1730-shortest-path-to-get-food](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1792-maximum-average-pass-ratio) |
@@ -204,6 +205,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1486-find-the-distance-value-between-two-arrays/) | undefined |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1898-maximum-number-of-removable-characters](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -277,6 +279,7 @@
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1288-remove-covered-intervals](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1486-find-the-distance-value-between-two-arrays/) | undefined |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1834-single-threaded-cpu](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -337,6 +340,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1486-find-the-distance-value-between-two-arrays/) | undefined |
 | [1813-sentence-similarity-iii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
