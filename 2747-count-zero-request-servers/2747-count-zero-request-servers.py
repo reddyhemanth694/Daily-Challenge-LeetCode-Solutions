@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def countServers(self, n: int, logs: List[List[int]], x: int, queries: List[int]) -> List[int]:
+class Solution(object):
+    def countServers(self, n, logs, x, queries):
         ans = []
         for q in queries:
             seen = set()
@@ -18,8 +18,8 @@ Better Approach
 
 from bisect import bisect_left, bisect_right
 
-class Solution:
-    def countServers(self, n: int, logs: List[List[int]], x: int, queries: List[int]) -> List[int]:
+class Solution(object):
+    def countServers(self, n, logs, x, queries):
         logs.sort(key=lambda lg: lg[1])
         times = [t for _, t in logs]
         ans = []
@@ -30,8 +30,8 @@ class Solution:
         return ans
 """
 
-class Solution:
-    def countServers(self, n: int, logs: List[List[int]], x: int, queries: List[int]) -> List[int]:
+class Solution(object):
+    def countServers(self, n, logs, x, queries):
         logs.sort(key=lambda lg: lg[1])
         order = sorted(range(len(queries)), key=lambda i: queries[i])
         cnt = [0] * (n + 1)
