@@ -25,6 +25,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -161,6 +162,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
+| [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -300,6 +302,7 @@
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
@@ -405,6 +408,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3717-minimum-operations-to-make-elements-within-k-subarrays-equal/) | undefined |
