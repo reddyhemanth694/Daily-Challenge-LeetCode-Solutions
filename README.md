@@ -67,6 +67,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1396-count-servers-that-communicate/) | undefined |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -84,6 +85,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1396-count-servers-that-communicate/) | undefined |
@@ -181,6 +183,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1396-count-servers-that-communicate/) | undefined |
 | [1730-shortest-path-to-get-food](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
@@ -194,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1396-count-servers-that-communicate/) | undefined |
 | [1730-shortest-path-to-get-food](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1895-largest-magic-square](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
@@ -447,6 +451,7 @@
 | ------- | ------- |
 | [0666-path-sum-iv](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1396-count-servers-that-communicate/) | undefined |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1992-find-all-groups-of-farmland) |
@@ -459,6 +464,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1905-count-sub-islands](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1905-count-sub-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
