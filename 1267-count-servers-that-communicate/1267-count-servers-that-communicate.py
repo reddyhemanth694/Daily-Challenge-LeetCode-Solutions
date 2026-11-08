@@ -1,19 +1,33 @@
 # Brute Force
-# class Solution:
-#     def countServers(self, grid: List[List[int]]) -> int:
+# class Solution(object):
+#     def countServers(self, grid):
+#         """
+#         :type grid: List[List[int]]
+#         :rtype: int
+#         """
 #         m, n = len(grid), len(grid[0])
 #         ans = 0
 #         for i in range(m):
 #             for j in range(n):
 #                 if grid[i][j] == 1:
-#                     if any(grid[i][k] == 1 for k in range(n) if k != j) or \
-#                        any(grid[k][j] == 1 for k in range(m) if k != i):
+#                     found = False
+#                     for k in range(n):
+#                         if k != j and grid[i][k] == 1:
+#                             found = True
+#                     for k in range(m):
+#                         if k != i and grid[k][j] == 1:
+#                             found = True
+#                     if found:
 #                         ans += 1
 #         return ans
 
 # Better Approach
-# class Solution:
-#     def countServers(self, grid: List[List[int]]) -> int:
+# class Solution(object):
+#     def countServers(self, grid):
+#         """
+#         :type grid: List[List[int]]
+#         :rtype: int
+#         """
 #         row = [sum(r) for r in grid]
 #         col = [sum(c) for c in zip(*grid)]
 #         ans = 0
@@ -24,8 +38,12 @@
 #         return ans
 
 # Optimized Approach: one pass, answer = total - isolated
-class Solution:
-    def countServers(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def countServers(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: int
+        """
         m, n = len(grid), len(grid[0])
         row_cnt = [0] * m
         row_col = [0] * m
