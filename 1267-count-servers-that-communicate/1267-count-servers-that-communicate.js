@@ -1,0 +1,59 @@
+/*
+Brute Force
+var countServers = function(grid) {
+    const m = grid.length, n = grid[0].length;
+    let ans = 0;
+    for (let i = 0; i < m; i++) {
+        for (let j = 0; j < n; j++) {
+            if (grid[i][j] === 1) {
+                let found = false;
+                for (let k = 0; k < n; k++)
+                    if (k !== j && grid[i][k] === 1) found = true;
+                for (let k = 0; k < m; k++)
+                    if (k !== i && grid[k][j] === 1) found = true;
+                if (found) ans++;
+            }
+        }
+    }
+    return ans;
+};
+*/
+
+/*
+Better Approach
+var countServers = function(grid) {
+    const m = grid.length, n = grid[0].length;
+    const row = new Array(m).fill(0), col = new Array(n).fill(0);
+    for (let i = 0; i < m; i++)
+        for (let j = 0; j < n; j++)
+            if (grid[i][j] === 1) { row[i]++; col[j]++; }
+    let ans = 0;
+    for (let i = 0; i < m; i++)
+        for (let j = 0; j < n; j++)
+            if (grid[i][j] === 1 && (row[i] > 1 || col[j] > 1)) ans++;
+    return ans;
+};
+*/
+
+// Optimized Approach: one pass, answer = total - isolated
+var countServers = function(grid) {
+    const m = grid.length, n = grid[0].length;
+    const rowCnt = new Array(m).fill(0);
+    const rowCol = new Array(m).fill(0);
+    const colCnt = new Array(n).fill(0);
+    let total = 0;
+    for (let i = 0; i < m; i++) {
+        for (let j = 0; j < n; j++) {
+            if (grid[i][j] === 1) {
+                rowCnt[i]++;
+                rowCol[i] += j;
+                colCnt[j]++;
+                total++;
+            }
+        }
+    }
+    let isolated = 0;
+    for (let i = 0; i < m; i++)
+        if (rowCnt[i] === 1 && colCnt[rowCol[i]] === 1) isolated++;
+    return total - isolated;
+};
