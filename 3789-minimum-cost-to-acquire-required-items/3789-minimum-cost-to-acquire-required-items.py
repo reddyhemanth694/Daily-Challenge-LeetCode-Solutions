@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def minimumCost(self, cost1: int, cost2: int, costBoth: int, need1: int, need2: int) -> int:
+class Solution(object):
+    def minimumCost(self, cost1, cost2, costBoth, need1, need2):
         best = float('inf')
         for k in range(max(need1, need2) + 1):
             best = min(best, k * costBoth + max(0, need1 - k) * cost1 + max(0, need2 - k) * cost2)
@@ -12,8 +12,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def minimumCost(self, cost1: int, cost2: int, costBoth: int, need1: int, need2: int) -> int:
+class Solution(object):
+    def minimumCost(self, cost1, cost2, costBoth, need1, need2):
         def total(k):
             return k * costBoth + max(0, need1 - k) * cost1 + max(0, need2 - k) * cost2
 
@@ -27,7 +27,7 @@ class Solution:
         return total(lo)
 """
 
-class Solution:
-    def minimumCost(self, cost1: int, cost2: int, costBoth: int, need1: int, need2: int) -> int:
+class Solution(object):
+    def minimumCost(self, cost1, cost2, costBoth, need1, need2):
         both = min(need1, need2)
         return both * min(costBoth, cost1 + cost2) + (need1 - both) * min(cost1, costBoth) + (need2 - both) * min(cost2, costBoth)
