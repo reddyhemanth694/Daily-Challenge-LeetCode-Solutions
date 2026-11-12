@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def longestMonotonicSubarray(self, nums: List[int]) -> int:
+class Solution(object):
+    def longestMonotonicSubarray(self, nums):
         n = len(nums)
         res = 1
         for i in range(n):
@@ -18,8 +18,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def longestMonotonicSubarray(self, nums: List[int]) -> int:
+class Solution(object):
+    def longestMonotonicSubarray(self, nums):
         res = length = 1
         for i in range(1, len(nums)):
             length = length + 1 if nums[i] > nums[i - 1] else 1
@@ -31,8 +31,8 @@ class Solution:
         return res
 """
 
-class Solution:
-    def longestMonotonicSubarray(self, nums: List[int]) -> int:
+class Solution(object):
+    def longestMonotonicSubarray(self, nums):
         res = inc = dec = 1
         for i in range(1, len(nums)):
             inc = inc + 1 if nums[i] > nums[i - 1] else 1
