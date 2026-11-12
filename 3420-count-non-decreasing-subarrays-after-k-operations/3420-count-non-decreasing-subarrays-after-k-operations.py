@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def countNonDecreasingSubarrays(self, nums: List[int], k: int) -> int:
+class Solution(object):
+    def countNonDecreasingSubarrays(self, nums, k):
         n = len(nums)
         ans = 0
         for l in range(n):
@@ -19,8 +19,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def countNonDecreasingSubarrays(self, nums: List[int], k: int) -> int:
+class Solution(object):
+    def countNonDecreasingSubarrays(self, nums, k):
         n = len(nums)
         lg = n.bit_length()
         pre = [0] * (n + 1)
@@ -62,8 +62,8 @@ class Solution:
 
 from collections import deque
 
-class Solution:
-    def countNonDecreasingSubarrays(self, nums: List[int], k: int) -> int:
+class Solution(object):
+    def countNonDecreasingSubarrays(self, nums, k):
         n = len(nums)
         dq = deque()
         ans = cost = 0
