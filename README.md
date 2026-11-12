@@ -171,6 +171,7 @@
 | [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -426,6 +427,7 @@
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3717-minimum-operations-to-make-elements-within-k-subarrays-equal/) | undefined |
 ## Design
@@ -479,6 +481,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -534,6 +537,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Shortest Path
 |  |
@@ -543,4 +547,16 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1396-count-servers-that-communicate/) | undefined |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
