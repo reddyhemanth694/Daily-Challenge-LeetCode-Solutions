@@ -170,6 +170,7 @@
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
