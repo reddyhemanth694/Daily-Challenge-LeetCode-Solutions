@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
+class Solution(object):
+    def minimumSumSubarray(self, nums, l, r):
         n = len(nums)
         ans = float('inf')
         for i in range(n):
@@ -18,8 +18,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
+class Solution(object):
+    def minimumSumSubarray(self, nums, l, r):
         n = len(nums)
         ans = float('inf')
         for i in range(n):
@@ -33,8 +33,8 @@ class Solution:
 
 from bisect import bisect_left, insort
 
-class Solution:
-    def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
+class Solution(object):
+    def minimumSumSubarray(self, nums, l, r):
         n = len(nums)
         pre = [0] * (n + 1)
         for i, v in enumerate(nums):
