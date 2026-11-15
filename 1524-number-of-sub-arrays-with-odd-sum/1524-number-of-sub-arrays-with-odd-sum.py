@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def numOfSubarrays(self, arr: List[int]) -> int:
+class Solution(object):
+    def numOfSubarrays(self, arr):
         MOD = 10**9 + 7
         n = len(arr)
         ans = 0
@@ -16,8 +16,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def numOfSubarrays(self, arr: List[int]) -> int:
+class Solution(object):
+    def numOfSubarrays(self, arr):
         MOD = 10**9 + 7
         n = len(arr)
         ans = 0
@@ -30,8 +30,8 @@ class Solution:
         return ans % MOD
 """
 
-class Solution:
-    def numOfSubarrays(self, arr: List[int]) -> int:
+class Solution(object):
+    def numOfSubarrays(self, arr):
         MOD = 10**9 + 7
         odd, even, s, ans = 0, 1, 0, 0
         for x in arr:
