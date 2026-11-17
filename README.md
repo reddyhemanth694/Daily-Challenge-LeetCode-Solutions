@@ -92,6 +92,7 @@
 | [1288-remove-covered-intervals](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1396-count-servers-that-communicate/) | undefined |
+| [1480-running-sum-of-1d-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/1486-find-the-distance-value-between-two-arrays/) | undefined |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1730-shortest-path-to-get-food](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
@@ -408,6 +409,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1829-maximum-xor-for-each-query](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
