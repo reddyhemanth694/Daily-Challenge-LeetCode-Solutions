@@ -1,8 +1,8 @@
 """
 Brute Force
 
-class Solution:
-    def minChanges(self, s: str) -> int:
+class Solution(object):
+    def minChanges(self, s):
         n = len(s)
 
         def solve(i):
@@ -24,8 +24,8 @@ class Solution:
 """
 Better Approach
 
-class Solution:
-    def minChanges(self, s: str) -> int:
+class Solution(object):
+    def minChanges(self, s):
         n = len(s)
         dp = [n] * (n + 1)
         dp[0] = 0
@@ -40,8 +40,8 @@ class Solution:
         return dp[n]
 """
 
-class Solution:
-    def minChanges(self, s: str) -> int:
+class Solution(object):
+    def minChanges(self, s):
         ans = 0
         for i in range(0, len(s), 2):
             if s[i] != s[i + 1]:
