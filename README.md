@@ -171,6 +171,7 @@
 | [2166-design-bitset](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
@@ -339,6 +340,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
@@ -362,6 +364,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3717-minimum-operations-to-make-elements-within-k-subarrays-equal/) | undefined |
@@ -515,6 +518,7 @@
 |  |
 | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Graph Theory
 |  |
 | ------- |
@@ -578,4 +582,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
