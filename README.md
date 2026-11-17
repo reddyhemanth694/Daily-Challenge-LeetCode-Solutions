@@ -62,6 +62,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3714-longest-balanced-substring-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
