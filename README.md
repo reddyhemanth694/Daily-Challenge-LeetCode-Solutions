@@ -174,6 +174,7 @@
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -285,6 +286,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Heap (Priority Queue)
 |  |
@@ -325,6 +327,7 @@
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
 ## Simulation
