@@ -349,6 +349,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
