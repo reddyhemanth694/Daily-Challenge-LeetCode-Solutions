@@ -27,6 +27,7 @@
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2747-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
+| [3331-find-subtree-sizes-after-changes](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3717-minimum-operations-to-make-elements-within-k-subarrays-equal/) | undefined |
@@ -63,6 +64,7 @@
 | [2409-count-days-spent-together](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3714-longest-balanced-substring-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -179,6 +181,7 @@
 | [2833-count-zero-request-servers](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/2833-count-zero-request-servers/) | undefined |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -493,6 +496,7 @@
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
@@ -522,6 +526,7 @@
 | [1993-operations-on-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Number Theory
 |  |
