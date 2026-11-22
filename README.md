@@ -56,6 +56,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
