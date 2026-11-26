@@ -353,6 +353,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Math
 |  |
 | ------- |
@@ -379,6 +380,7 @@
 | [2178-maximum-split-of-positive-even-integers](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3717-minimum-operations-to-make-elements-within-k-subarrays-equal/) | undefined |
