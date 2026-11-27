@@ -195,6 +195,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/4116-minimum-moves-to-equal-array-elements-iii/) | undefined |
 ## Breadth-First Search
 |  |
@@ -294,6 +295,7 @@
 | [2178-maximum-split-of-positive-even-integers](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -426,6 +428,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/main/3717-minimum-operations-to-make-elements-within-k-subarrays-equal/) | undefined |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hemanthreddyy98-hub/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/reddyhemanth694/Daily-Challenge-LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
